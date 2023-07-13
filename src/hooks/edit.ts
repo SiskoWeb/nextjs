@@ -22,3 +22,7 @@ export function useLogic() {
     handleDelete,
   };
 }
+// ask for
+//1) how to split code 
+//2) is okey to use react query or no need
+//3) is okey to use axios or no need
